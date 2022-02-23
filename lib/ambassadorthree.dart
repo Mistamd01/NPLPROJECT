@@ -2,7 +2,7 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:npl/ambassadorone.dart';
 
-import 'camp.dart';
+import 'viewcampaign.dart';
 import 'homescreen.dart';
 
 

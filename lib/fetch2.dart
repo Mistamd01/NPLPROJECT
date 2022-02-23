@@ -7,8 +7,8 @@ import 'package:npl/login.dart';
 import 'package:npl/welcomeThree.dart';
 import 'dart:convert';
 
-import 'campaign.dart';
-import 'details.dart';
+import 'Homescareen2.dart';
+import 'Campaigndetails.dart';
 import 'details2.dart';
 import 'donate.dart';
 import 'logintwo.dart';

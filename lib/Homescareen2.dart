@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:npl/camp.dart';
+import 'package:npl/viewcampaign.dart';
 import 'package:npl/myfunding.dart';
 import 'Album.dart';
 import 'homescreen.dart';

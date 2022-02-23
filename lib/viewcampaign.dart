@@ -5,8 +5,8 @@ import 'package:http/http.dart' as http;
 import 'package:http/http.dart';
 import 'dart:convert';
 
-import 'campaign.dart';
-import 'details.dart';
+import 'Homescareen2.dart';
+import 'Campaigndetails.dart';
 import 'donate.dart';
 
 class Fetch extends StatefulWidget {

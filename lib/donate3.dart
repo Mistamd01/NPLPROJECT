@@ -7,7 +7,7 @@ import 'package:http/http.dart' as http;
 import 'package:npl/succpay.dart';
 import 'dart:convert';
 
-import 'campaign.dart';
+import 'Homescareen2.dart';
 import 'dart:io';
 import 'package:flutter_paystack/flutter_paystack.dart';
 import 'package:npl/provider/auth_provider.dart';

@@ -7,8 +7,8 @@ import 'package:npl/provider/auth_provider.dart';
 import 'package:provider/provider.dart';
 import 'dart:convert';
 
-import 'campaign.dart';
-import 'details.dart';
+import 'Homescareen2.dart';
+import 'Campaigndetails.dart';
 import 'donate.dart';
 import 'homescreen.dart';
 

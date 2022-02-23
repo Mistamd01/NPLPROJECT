@@ -7,7 +7,7 @@ import 'package:fluttertoast/fluttertoast.dart';
 import 'package:npl/provider/auth_provider.dart';
 import 'package:provider/provider.dart';
 import 'ambassadortwo.dart';
-import 'camp.dart';
+import 'viewcampaign.dart';
 import 'homescreen.dart';
 
 

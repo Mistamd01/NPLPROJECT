@@ -5,7 +5,7 @@ import 'package:npl/ambassadorone.dart';
 import 'package:http/http.dart' as http;
 
 import 'ambassadorthree.dart';
-import 'camp.dart';
+import 'viewcampaign.dart';
 import 'homescreen.dart';
 import 'login.dart';
 import 'model/reg_model.dart';
